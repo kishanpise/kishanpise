@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development, MEANstack Development and Web Development
 - 🌱 I’m currently learning MERNstack development
 - 💞️ I’m looking to collaborate on Development Role.
-- 📫 How to reach me 
+- 📫 Kishanpise2@gmail.com
 
 <!---
 kishanpise/kishanpise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
